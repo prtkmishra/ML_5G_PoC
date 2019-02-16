@@ -10,3 +10,5 @@ matplotlib
 pandas
 numpy
 sklearn
+librosa
+
