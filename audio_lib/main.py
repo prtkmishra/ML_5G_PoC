@@ -1,3 +1,3 @@
-import load_audio_file.py
+import load_audio_file
 
-LoadAudio()
+load_audio_file.LoadAudio()
