@@ -10,7 +10,8 @@ m = length(y); % number of training examples
 J = 0;
 
 
-J = (1/(2*m))*sum(power((X*theta - y),2));
+
+J = (1/(2*m))*sum(power((X*theta-y),2));
 
 
 % =========================================================================
