@@ -10,7 +10,7 @@ if ~exist('example_width', 'var') || isempty(example_width)
 end
 
 % Gray Image
-colormap(gray);
+colormap(winter);
 
 % Compute rows, cols
 [m n] = size(X);
