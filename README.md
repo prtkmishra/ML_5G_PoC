@@ -2,7 +2,7 @@
 This repo is created with intention to work on ML and 5G PoC
 Currently in process of creating a framework
 
-modules prerequisite:
+Python modules prerequisite:
 tarfile
 ssl
 os
@@ -12,3 +12,6 @@ numpy
 sklearn
 librosa
 
+MATLAB:
+Octave focused syntax
+IO package
