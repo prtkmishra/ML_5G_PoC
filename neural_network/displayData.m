@@ -9,7 +9,7 @@ if ~exist('example_width', 'var') || isempty(example_width)
 	example_width = round(sqrt(size(X, 2)));
 end
 
-% Gray Image
+% Image
 colormap(winter);
 
 % Compute rows, cols
